@@ -27,10 +27,10 @@ You have **ImageStorage** class which compress and apply filter on image before 
                 System.out.println("Compressing using png");
             }
 
-            if(this.filter == "normal") {
-                System.out.println("Applying normal filter");
-            } else if(this.filter == "hudson") {
-                System.out.println("Applying hudson filter");
+            if(this.filter == "Black and White") {
+                System.out.println("Applying Black and White filter");
+            } else if(this.filter == "High Contrast") {
+                System.out.println("Applying High Contrast filter");
             }
         }
     }    
