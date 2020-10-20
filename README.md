@@ -3,6 +3,11 @@
 **Strategy** design pattern enables selecting an algorithm at runtime. ([wiki](https://en.wikipedia.org/wiki/Strategy_pattern))
 ![](https://github.com/shamy1st/design-pattern-strategy-java/blob/main/strategy-uml.png)
 ### Problem: 
+You have ImageStorage class which compress and apply filter on image before store it.
+
+**Two Issues:**
+1. ImageStorage class violate "single responsibility principle".
+2. Difficult to add new compressor or new filter.
 
     public class ImageStorage {
         private String compressor;
