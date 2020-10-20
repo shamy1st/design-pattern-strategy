@@ -36,3 +36,5 @@ You have **ImageStorage** class which compress and apply filter on image before 
     }    
 ### Solution:
 ![](https://github.com/shamy1st/design-pattern-strategy-java/blob/main/strategy-solution-uml.png)
+![](https://github.com/shamy1st/design-pattern-strategy-java/blob/main/strategy-solution-uml-2.png)
+![](https://github.com/shamy1st/design-pattern-strategy-java/blob/main/strategy-solution-uml-3.png)
