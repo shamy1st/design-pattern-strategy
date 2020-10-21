@@ -1,4 +1,4 @@
-# Java Implementation of Strategy Design Pattern
+# Strategy Design Pattern (Java Implementation)
 
 **Strategy** design pattern enables selecting an algorithm at runtime. ([wiki](https://en.wikipedia.org/wiki/Strategy_pattern))
 
