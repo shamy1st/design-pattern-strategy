@@ -7,7 +7,7 @@
 You have **ImageStorage** class which compress and apply filter on image before store it.
 
 **Two Issues:**
-1. ImageStorage class violate "single responsibility principle".
+1. **ImageStorage** class violate [Single-responsibility principle](https://en.wikipedia.org/wiki/Single-responsibility_principle).
 2. Difficult to add new compressor or new filter.
 ---
 
