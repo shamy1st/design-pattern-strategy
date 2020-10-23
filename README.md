@@ -1,6 +1,6 @@
-# Strategy Design Pattern (Java Implementation)
+# Strategy Design Pattern (Java)
 
-**Strategy** design pattern enables selecting an algorithm at runtime. ([wiki](https://en.wikipedia.org/wiki/Strategy_pattern))
+**Strategy** selecting an algorithm at runtime.
 
 ![](https://github.com/shamy1st/design-pattern-strategy-java/blob/main/strategy-uml.png)
 ### Problem: 
