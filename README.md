@@ -1,8 +1,6 @@
 # Strategy Design Pattern (Java)
-
 **Strategy** selecting an algorithm at runtime.
-
-![](https://github.com/shamy1st/design-pattern-strategy-java/blob/main/strategy-uml.png)
+![](https://github.com/shamy1st/design-pattern-strategy/blob/main/uml.png)
 ### Problem: 
 You have **ImageStorage** class which compress and apply filter on image before store it.
 
@@ -35,5 +33,5 @@ You have **ImageStorage** class which compress and apply filter on image before 
         }
     }    
 ### Solution:
-![](https://github.com/shamy1st/design-pattern-strategy-java/blob/main/strategy-solution-uml-2.png)
-![](https://github.com/shamy1st/design-pattern-strategy-java/blob/main/strategy-solution-uml-3.png)
+![](https://github.com/shamy1st/design-pattern-strategy/blob/main/uml-solution-2.png)
+![](https://github.com/shamy1st/design-pattern-strategy/blob/main/uml-solution-3.png)
